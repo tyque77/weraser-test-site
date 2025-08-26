@@ -1,0 +1,13 @@
+<svg width="60" height="60" viewBox="0 0 60 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="13.5" y="-2.5" width="49" height="49"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(4px);clip-path:url(#bgblur_0_52_21_clip_path);height:100%;width:100%"></div></foreignObject><rect data-figma-bg-blur-radius="8" x="22" y="6" width="32" height="32" rx="4" fill="#5C57DD" stroke="#5C57DD" stroke-linecap="round" stroke-linejoin="round"/>
+<foreignObject x="-1.5" y="4.5" width="57" height="57"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(4px);clip-path:url(#bgblur_1_52_21_clip_path);height:100%;width:100%"></div></foreignObject><rect opacity="0.7" data-figma-bg-blur-radius="8" x="7" y="13" width="40" height="40" rx="4" fill="url(#paint0_radial_52_21)" stroke="#D6D6F9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M17 31V34M21 27V38M25 24V42M29 29V36M33 26V39M37 31V34" stroke="white" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<clipPath id="bgblur_0_52_21_clip_path" transform="translate(-13.5 2.5)"><rect x="22" y="6" width="32" height="32" rx="4"/>
+</clipPath><clipPath id="bgblur_1_52_21_clip_path" transform="translate(1.5 -4.5)"><rect x="7" y="13" width="40" height="40" rx="4"/>
+</clipPath><radialGradient id="paint0_radial_52_21" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(27 33) rotate(90) scale(20)">
+<stop offset="0.663498" stop-color="#C3C2EA" stop-opacity="0.9"/>
+<stop offset="1" stop-color="#C3C2EA"/>
+</radialGradient>
+</defs>
+</svg>

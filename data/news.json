@@ -1,0 +1,79 @@
+[
+  {
+    "id": "1",
+    "title": "위레이저, AI로 물류 서류 처리 시간 90% 단축",
+    "description": "위레이저는 국민일보와 쿠키뉴스가 주최한 '코어이노베이션코리아 2024'에서 물류 관리 및 데이터 처리 혁신을 인정받아 대상을 수상했습니다.",
+    "date": "2025.01.15",
+    "type": "news",
+    "imageUrl": "/uploads/1756177325118.jpg",
+    "slug": "weraser-ai-logistics-award-2024",
+    "createdAt": "2025-01-15T00:00:00.000Z",
+    "updatedAt": "2025-01-15T00:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "title": "위레이저, 물류 AI 솔루션으로 업계 혁신 주도",
+    "description": "AI 기반 물류 관리 시스템을 통해 기업들의 물류 효율성을 크게 향상시키고 있습니다.",
+    "date": "2025.01.10",
+    "type": "news",
+    "imageUrl": null,
+    "slug": "weraser-logistics-ai-innovation",
+    "createdAt": "2025-01-10T00:00:00.000Z",
+    "updatedAt": "2025-01-10T00:00:00.000Z"
+  },
+  {
+    "id": "3",
+    "title": "스마트 물류 플랫폼 베타 서비스 출시",
+    "description": "차세대 물류 관리 솔루션의 베타 버전이 출시되어 선별된 고객사들과 함께 테스트를 진행하고 있습니다.",
+    "date": "2024.12.15",
+    "type": "news",
+    "imageUrl": null,
+    "slug": "smart-logistics-platform-beta",
+    "createdAt": "2024-12-15T00:00:00.000Z",
+    "updatedAt": "2024-12-15T00:00:00.000Z"
+  },
+  {
+    "id": "4",
+    "title": "글로벌 물류 기업과 파트너십 체결",
+    "description": "해외 진출을 위한 전략적 파트너십을 통해 글로벌 시장 확장의 발판을 마련했습니다.",
+    "date": "2024.11.28",
+    "type": "news",
+    "imageUrl": null,
+    "slug": "global-logistics-partnership",
+    "createdAt": "2024-11-28T00:00:00.000Z",
+    "updatedAt": "2024-11-28T00:00:00.000Z"
+  },
+  {
+    "id": "5",
+    "title": "AI 기술 특허 출원 완료",
+    "description": "핵심 AI 알고리즘에 대한 특허 출원을 완료하여 기술적 경쟁력을 더욱 강화했습니다.",
+    "date": "2024.10.10",
+    "type": "news",
+    "imageUrl": null,
+    "slug": "ai-technology-patent-application",
+    "createdAt": "2024-10-10T00:00:00.000Z",
+    "updatedAt": "2024-10-10T00:00:00.000Z"
+  },
+  {
+    "id": "blog-1",
+    "title": "AI 물류 최적화의 미래",
+    "description": "인공지능 기술이 물류 산업에 가져올 변화와 미래 전망에 대해 살펴봅니다.",
+    "date": "2025.01.12",
+    "type": "blog",
+    "imageUrl": null,
+    "slug": "ai-logistics-optimization-future",
+    "createdAt": "2025-01-12T00:00:00.000Z",
+    "updatedAt": "2025-01-12T00:00:00.000Z"
+  },
+  {
+    "id": "blog-2",
+    "title": "스마트 물류 도입 가이드",
+    "description": "기업에서 스마트 물류 시스템을 도입할 때 고려해야 할 핵심 요소들을 정리했습니다.",
+    "date": "2025.01.08",
+    "type": "blog",
+    "imageUrl": null,
+    "slug": "smart-logistics-implementation-guide",
+    "createdAt": "2025-01-08T00:00:00.000Z",
+    "updatedAt": "2025-01-08T00:00:00.000Z"
+  }
+]
